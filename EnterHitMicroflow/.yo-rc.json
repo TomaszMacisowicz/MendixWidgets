@@ -1,0 +1,11 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Suez",
+      "license": "Apache 2",
+      "author": "Tomasz Macisowicz",
+      "boilerplate": "empty",
+      "widgetoptions": []
+    }
+  }
+}
